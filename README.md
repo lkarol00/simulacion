@@ -1,4 +1,4 @@
-# Simulacion y Laboratorio
+# Simulación y Laboratorio
 Proyecto del curso: Simulación y Laboratorio 
 
 Nombre: Online Shoppers Purchasing Intention Dataset Data Set
